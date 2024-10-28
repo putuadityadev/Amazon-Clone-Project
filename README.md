@@ -1,2 +1,12 @@
-# Amazon-Clone-Project
-This project is an interactive clone of the Amazon website built with HTML, CSS, and JavaScript. It features a responsive design, dynamic content, and interactive elements like product listings and a shopping cart. The goal is to enhance my JavaScript skills while creating a functional web application.
+#Simple Amazon Clone
+This project is a simple interactive clone of the Amazon website, created using HTML, CSS, and JavaScript. The primary goal of this project is to enhance my skills in JavaScript while building a functional web application.
+
+#Features
+1. Responsive Design: The layout is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
+2. Interactive Elements: Users can interact with various components, such as product listings, a shopping cart, and navigation menus.
+3. Dynamic Content: JavaScript is utilized to manage dynamic content, allowing for an engaging user experience.
+
+#Technologies Used
+- HTML: For the structure of the web pages.
+- CSS: For styling and layout.
+- JavaScript: For interactivity and dynamic content management.
